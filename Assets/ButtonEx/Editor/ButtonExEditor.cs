@@ -1,4 +1,5 @@
-﻿using System;
+/*
+using System;
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.UI;
@@ -97,3 +98,4 @@ namespace MyProject.Editor
 		}
 	}
 }
+*/
